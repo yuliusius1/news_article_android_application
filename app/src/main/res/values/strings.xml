@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simple News Article</string>
+    <string name="add_article">Add New Article</string>
+    <string name="add_new_article">Add New Article</string>
+    <string name="article_name">Article Name</string>
+    <string name="article_photo_url">Article Photo URL</string>
+    <string name="article_text">Article Text</string>
+    <string-array name="newsTitles">
+        <item>Russia-Ukraine Warz, Kharkiv holds out. Russians claim to control Kherson</item>
+        <item>New unemployment insurance scam aims to steal benefits with fake emails, texts and phone calls</item>
+    </string-array>
+    <string-array name="newsArticles">
+        <item>Russia and Ukraine said Wednesday that they were prepared to hold talks for the second time since the Russian invasion of its neighbor began last week.\n\n
+The talks are expected to take place Thursday in Belarus, though there appears to be little common ground between the two sides. They were announced the same day that the U.N. General Assembly condemned the invasion and called on Russia to withdraw its troops from Ukraine.\n\n
+Meanwhile, Russia assault on Ukrainian cities continued, including Russia disputed claim to have taken control of its first major city, Kherson, and a strike on Ukraine second-largest city, Kharkiv, that led one official to call Kharkiv "the Stalingrad of the 21st century."\n\n</item>
+        <item>Maryland State Police and the Maryland Department of Labor Unemployment Division say they are following an illegal scam where fraudsters impersonate department representatives.\n\nThe scammers send fake emails, text messages and make phone calls asking legitimate claimants to enter their user IDs and passwords onto fake websites where benefit payments are then diverted into to their own bank accounts.\n\nThe Maryland Department of Labor says they have flagged nearly 1.8 million claimants and 2.3 million total claims as potentially fraudulent since the COVID19 pandemic began.</item>
+    </string-array>
+    <string-array name="newsPhoto">
+        <item>https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/03/932/524/GettyImages-1376415430.jpg</item>
+        <item>https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/03/764/432/GettyImages-1238097695.jpg</item>
+    </string-array>
+</resources>

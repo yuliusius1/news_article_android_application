@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Articoli di notizie</string>
+    <string name="add_article">Aggiungi l`articolo</string>
+    <string name="add_new_article">Aggiungi nuovo articolo</string>
+    <string name="article_name">Nome dell`articolo</string>
+    <string name="article_photo_url">URL della foto dell`articolo</string>
+    <string name="article_text">Testo dell`articolo</string>
+    <string-array name="newsTitles">
+        <item>Francesca Tardioli: Italy`s ambassador to Australia dies after falling from home balcony</item>
+        <item>Technology, social media changing how war is fought in Ukraine</item>
+    </string-array>
+    <string-array name="newsArticles">
+        <item>The Italian ambassador to Australia has died after falling from a balcony while on holiday in her hometown.\n\n
+Francesca Tardioli died in her Foligno house on Saturday evening, where she had been alone at the time.\n\n
+A family member had alerted the authorities but emergency services were unable to revive her. Police are now investigating the incident.\n\n
+"With infinite sadness, we mourn the passing of Francesca Tardioli, Ambassador of Italy in Canberra, and join in the grief of her loved ones," the Italian foreign ministry wrote on Twitter.\n\n
+"We will remember her with affection for her admirable professional and human qualities a great diplomat and servant of the State."\n\n</item>
+        <item>Technology and social media have fundamentally changed the world, including how war is fought, as we are seeing play out every day in Ukraine.\n\n
+Billionaire Elon Musk was recently sought out on Twitter by Ukraine Vice Prime Minister, Mykhailo Fedorov, who asked Musk for SpaceX support fighting the war.\n\n
+In particular, Fedorov asked for help setting up SpaceX Starlink satellite internet capabilities to work as a backup if the internet goes out in the war zone.\n\n
+Musk responded in less than 12 hours, saying Starlink was set up and more help was on the way.\n\n
+Technology has also made it easier for everyone around the world to see what is happening in real-time on the ground in Ukraine.\n\n
+</item>
+        </string-array>
+    <string-array name="newsPhoto">
+        <item>https://static.euronews.com/articles/stories/06/49/54/78/773x435_cmsv2_f327a6d2-7ec9-5554-a282-5ee21be18f96-6495478.jpg</item>
+        <item>https://www.verdict.co.uk/wp-content/uploads/2021/04/shutterstock_1583248045.jpg</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Artikel Berita</string>
+    <string name="add_article">Tambah Artikel</string>
+    <string name="add_new_article">Tambah Artikel Baru</string>
+    <string name="article_name">Nama Artikel</string>
+    <string name="article_photo_url">URL Foto Artikel</string>
+    <string name="article_text">Isi Artikel</string>
+    <string-array name="newsTitles">
+        <item>Fakta Terkini Pasukan Rusia Terhambat Saat Menuju Ibu Kota Ukraina</item>
+        <item>Dentuman Keras dan Hujan Abu Semeru, Warga Berlarian ke Luar Rumah</item>
+    </string-array>
+    <string-array name="newsArticles">
+        <item>Pergerakan pasukan Rusia menuju Ibu Kota Ukraina, Kiev dilaporkan terhambat. Pejabat pertahanan senior Amerika Serikat (AS) menyebut pasukan Rusia terhambat oleh perlawanan sengit dari militer Ukraina hingga kekurangan bahan bakar dan pasokan makanan.\n\n"Kami pada umumnya merasakan bahwa pergerakan militer Rusia… pergerakan menyeluruh menuju Kiev, terhenti pada saat ini," ungkap pejabat senior AS yang enggan disebut namanya itu kepada wartawan setempat, seperti dilansir AFP, Rabu (2/3/2022). \n\nPejabat senior AS itu mengatakan enam hari sejak Rusia menginvasi Ukraina, konvoi militer besar-besaran Rusia di utara Kiev hampir tidak bergerak. Namun demikian AS masih meyakini bahwa pasukan Rusia tetap berniat mengepung dan merebut Kiev, dengan taktik pengepungan jika diperlukan.\n\n</item>
+        <item>Warga desa di sekitar lereng Gunung Semeru, Lumajang Jawa Timur (Jatim), kembali merasakan terpaan hujan abu. Hal itu sudah berlangsung dua hari.\nHal itu dilaporkan oleh salah seorang warga Desa Sumberwuluh, Kecamatan Candipuro, Lumajang, Ahmad Samiludin."Hujan abu sudah dua hari ini di Sumberwuluh dan desa-desa sekitar sini," kata Ahmad, kepada CNNIndonesia.com, Kamis (3/3).\n\nPuncaknya adalah aktivitas vulkanik Semeru Rabu (2/3) malam tadi. Gunung tertinggi di Pulau Jawa itu dilaporkan kembali memuntahkan materialnya. Para warga sekitar, kata Ahmad, bahkan sampai berlarian ke luar rumah. Mereka juga mendengar suara dentuman atau gemuruh.\n\nKalau suara itu memang terdengar. Tadi malam warga sampai keluar rumah semua," ucapnya.</item>
+    </string-array>
+    <string-array name="newsPhoto">
+        <item>https://akcdn.detik.net.id/community/media/visual/2022/02/26/unit-militer-ukraina-berada-dalam-posisi-siaga-di-sebuah-jembatan-di-dalam-kota-kiev-saat-menghadapi-invasi-rusia_169.jpeg?w=700</item>
+        <item>https://akcdn.detik.net.id/visual/2021/12/10/akstatus-gunung-semeru-masih-waspada_169.jpeg?w=650</item>
+    </string-array>
+</resources>
